@@ -7,7 +7,14 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="wwwroot\index.html" />
+    <Content Include="Images\facebook-Button.jpg" />
+    <Content Include="Images\LatahLarry.png" />
+    <Content Include="index.html" />
+    <Content Include="minutes.html" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
   </ItemGroup>
 
 </Project>
